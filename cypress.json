@@ -1,0 +1,10 @@
+{
+    "ignoreTestFiles" : [
+        "**/1-getting-started/**",
+        "**/2-advanced-examples/**"
+    ],
+    "baseUrl" : "http://conduit.centralus.cloudapp.azure.com:3000",
+    "viewportHeight": 1080,
+    "viewportWidth" : 1920,
+    "screenshotOnRunFailure": true
+}
